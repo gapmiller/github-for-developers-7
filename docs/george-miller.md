@@ -2,4 +2,3 @@
 United States
 *Bacon*
 Reading
-Should add favorite color
